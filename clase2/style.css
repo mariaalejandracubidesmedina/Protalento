@@ -1,6 +1,19 @@
 header{
-    background-color :coral;
+    background-color :aqua;
 }
 main{
-    background-color: darkblue;
+    background-color: azure;
+}
+ol{
+    font-size: 22px;
+}
+ul{
+    font-size: 28px;
+}
+.cabecera_inicial{
+    font-size: 50px;
+}
+.descripcion_quien{
+ text-align: justify;
+ text-overflow: initial;
 }
