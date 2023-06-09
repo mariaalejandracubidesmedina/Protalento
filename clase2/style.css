@@ -1,9 +1,17 @@
 header{
     background-color :aqua;
 }
+body{
+    background-color: blue;
+}
 main{
     background-color: azure;
 }
+.img-head{
+
+}
+
+
 ol{
     font-size: 22px;
 }
@@ -16,4 +24,13 @@ ul{
 .descripcion_quien{
  text-align: justify;
  text-overflow: initial;
+}
+.nombre{
+    border: 2px solid black;
+    margin-bottom: 50px;
+    margin-top: 70px;
+    padding-left: 130px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height: 100px;
 }
